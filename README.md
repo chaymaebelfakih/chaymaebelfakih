@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Ait Belfakih Chaimae</h1>
+<h1 align="center">Hi 👋, I'm Ait Belfakih Chaymae</h1>
 <h3 align="center">A passionate data & BI enthusiast from Morocco 🇲🇦</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaymaebelfakih&label=Profile%20views&color=0e75b6&style=flat" alt="chaymaebelfakih" /> </p>
