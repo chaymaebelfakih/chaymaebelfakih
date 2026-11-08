@@ -75,7 +75,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
   </a>
   <a href="https://aws.amazon.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="40" height="40"/>
+ <img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="40"/>
   </a>
   <a href="https://www.jenkins.io/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/>
