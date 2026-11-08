@@ -1,68 +1,128 @@
-## Hi there 👋
 
-<h1 align="center"> I'm Ait Belfakih Chaymae</h1>
-<h3 align="center">
-  Data Analyst | Business Intelligence | Big Data & Analytics 🇲🇦
-</h3>
+<div align="center">
+
+# Hi 👋, I'm Chaymae Ait Belfakih
+
+### Data Analyst | Business Intelligence | Power BI Developer
+
+🎓 Master's in Business Intelligence & Big Data Analytics
+
+📊 Microsoft Certified: Power BI Data Analyst Associate (PL-300)
+
+📍 Morocco 🇲🇦
+
+![Profile Views](https://komarev.com/ghpvc/?username=chaymaebelfakih&label=Profile%20Views&color=0e75b6&style=flat)
+
+</div>
+
+---
 
 ## 👩‍💻 About Me
 
-- 🎓 Master's graduate in Business Intelligence & Big Data Analytics.
-- 📊 Interested in Data Analysis, Business Intelligence, and Machine Learning.
-- 💡 Experienced in building interactive dashboards and transforming data into actionable insights.
-- 🛠️ Working with Python, SQL, Power BI, and Excel.
-- 🧠 Exploring Big Data technologies and AI solutions.
-- 📜 Microsoft Certified: Power BI Data Analyst Associate (PL-300).
+- 🎓 Master's graduate in **Business Intelligence & Big Data Analytics**.
+- 📊 Passionate about **Data Analytics, Business Intelligence, and Data Engineering**.
+- 💡 Experienced in building interactive dashboards, analyzing business KPIs, and transforming raw data into actionable insights.
+- 🛠️ Working with **Python, SQL, Power BI, Excel, and PostgreSQL**.
+- 🔄 Exploring **ETL/ELT pipelines, dbt, Docker, and Big Data technologies**.
+- 🧠 Interested in **Machine Learning and Artificial Intelligence**.
+- 🏅 Microsoft Certified: **Power BI Data Analyst Associate (PL-300)**.
 
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chaymaebelfakih&label=Profile%20views&color=0e75b6&style=flat" alt="chaymaebelfakih" /> </p>
+## 🛠️ Languages and Tools
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chaymaebelfakih" alt="chaymaebelfakih" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/chaymae-belfakih-b97226342/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.kaggle.com/chaymaaitbelfakih" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/chaimaabelfaki" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a>
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
-  </a>
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> 
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-  </a>
-  <a href="https://www.azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a>
-  <!-- Tu peux ajouter ici les autres icônes que tu veux garder -->
-</p>
+### 📊 Data Analytics & Business Intelligence
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chaymaebelfakih&show_icons=true&locale=en&layout=compact" alt="chaymaebelfakih" />
+  <img src="https://skillicons.dev/icons?i=python,postgres,mysql" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chaymaebelfakih&show_icons=true&locale=en" alt="chaymaebelfakih" /></p>
+### ⚙️ Data Engineering & Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,azure,aws" />
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
+</p>
+
+### 🤖 Machine Learning & Data Science
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### ⚽ Football Analytics — End-to-End BI Project
+
+An end-to-end Business Intelligence project analyzing historical international football matches.
+
+**Tech Stack:** Python | PostgreSQL | dbt | Power BI
+
+**Key Features:**
+- Data exploration, cleaning, and validation using Python.
+- Data transformation and modeling with SQL and dbt.
+- Dimensional modeling using fact and dimension tables.
+- Interactive Power BI dashboard with football KPIs.
+- Analysis of team performance, victories, and competitions.
+
+### 📡 Telecom Business Intelligence
+
+A Business Intelligence project focused on telecom data analysis and performance monitoring.
+
+**Tech Stack:** SQL | Power BI | Data Modeling
+
+**Key Features:**
+- Data preparation and transformation.
+- KPI calculation and analysis.
+- Interactive Power BI dashboards.
+- Business performance visualization.
+
+### 🧠 Brain Tumor Segmentation — Deep Learning
+
+A medical image segmentation project based on a Multi-Encoder U-Net architecture with wavelet fusion.
+
+**Tech Stack:** Python | PyTorch | Deep Learning
+
+**Key Features:**
+- Medical image preprocessing.
+- Multi-modal MRI image analysis.
+- Deep learning architecture implementation.
+- Brain tumor segmentation experiments.
+
+---
+
+## 🏅 Certifications
+
+- 🏆 **Microsoft Certified: Power BI Data Analyst Associate (PL-300)**
+- 📚 IBM — Data & Analytics Training
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/chaymae-belfakih-b97226342/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.kaggle.com/chaymaaitbelfakih">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+  <a href="https://github.com/chaymaebelfakih">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### ✨ Turning Data into Insights, and Insights into Decisions.
+
+</div>
