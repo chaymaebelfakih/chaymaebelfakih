@@ -1,7 +1,18 @@
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Ait Belfakih Chaymae</h1>
-<h3 align="center">Exploring data, delivering insights | Morocco 🇲🇦</h3>
+<h3 align="center">
+  Data Analyst | Business Intelligence | Big Data & Analytics 🇲🇦
+</h3>
+
+## 👩‍💻 About Me
+
+- 🎓 Master's graduate in Business Intelligence & Big Data Analytics.
+- 📊 Interested in Data Analysis, Business Intelligence, and Machine Learning.
+- 💡 Experienced in building interactive dashboards and transforming data into actionable insights.
+- 🛠️ Working with Python, SQL, Power BI, and Excel.
+- 🧠 Exploring Big Data technologies and AI solutions.
+- 📜 Microsoft Certified: Power BI Data Analyst Associate (PL-300).
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaymaebelfakih&label=Profile%20views&color=0e75b6&style=flat" alt="chaymaebelfakih" /> </p>
