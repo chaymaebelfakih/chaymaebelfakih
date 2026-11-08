@@ -127,24 +127,30 @@
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
+
+
+<h2>📫 Connect With Me</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/chaymae-belfakih-b97226342/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    LinkedIn
   </a>
+  &nbsp;&nbsp; | &nbsp;&nbsp;
   <a href="https://www.kaggle.com/chaymaaitbelfakih">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+    Kaggle
   </a>
+  &nbsp;&nbsp; | &nbsp;&nbsp;
   <a href="https://github.com/chaymaebelfakih">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    GitHub
   </a>
 </p>
+
 
 ---
 
 <div align="center">
 
-### ✨ Turning Data into Insights, and Insights into Decisions.
+###  Turning Data into Insights, and Insights into Decisions.
 
 </div>
