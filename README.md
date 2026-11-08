@@ -9,7 +9,7 @@
 
 📊 Microsoft Certified: Power BI Data Analyst Associate (PL-300)
 
-📍 Morocco 🇲🇦
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=chaymaebelfakih&label=Profile%20Views&color=0e75b6&style=flat)
 
