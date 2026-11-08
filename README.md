@@ -133,10 +133,10 @@
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/chaymae-belfakih-b97226342/">
-    LinkedIn
+  <a href="https://www.linkedin.com/in/chaymae-ait-belfakih-b97226342/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+         alt="LinkedIn" width="40" height="40"/>
   </a>
-  &nbsp;&nbsp; | &nbsp;&nbsp;
   <a href="https://www.kaggle.com/chaymaaitbelfakih">
     Kaggle
   </a>
