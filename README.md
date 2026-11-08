@@ -29,7 +29,7 @@
 
 ## 🛠️ Languages and Tools
 
-### 📊 Data Analytics & Business Intelligence
+### Data Analytics & Business Intelligence
 
 <p align="left">
   <a href="https://www.python.org/">
@@ -56,7 +56,7 @@
   </a>
 </p>
 
-### ⚙️ Data Engineering & DevOps
+###  Data Engineering & DevOps
 
 <p align="left">
   <a href="https://www.docker.com/">
@@ -86,7 +86,7 @@
   </a>
 </p>
 
-### 🤖 Machine Learning & Data Science
+###  Machine Learning & Data Science
 
 <p align="left">
   <a href="https://pytorch.org/">
@@ -112,7 +112,7 @@
   </a>
 </p>
 
-### 💻 Web Development & Programming
+###  Web Development & Programming
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,css,html,java,js,nodejs,mongodb,php,bootstrap,vscode" alt="Web Development and Programming Tools"/>
@@ -120,17 +120,17 @@
 
 
 
-## 🏅 Certifications
+##  Certifications
 
-- 🏆 **Microsoft Certified: Power BI Data Analyst Associate (PL-300)**
-- 📚 IBM — Data & Analytics Training
+-  **Microsoft Certified: Power BI Data Analyst Associate (PL-300)**
+-  IBM — Data & Analytics Training
 
 ---
 
 ##  Connect With Me
 
 
-<h2>📫 Connect With Me</h2>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/chaymae-belfakih-b97226342/">
