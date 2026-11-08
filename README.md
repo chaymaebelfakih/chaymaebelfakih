@@ -46,7 +46,7 @@
 
   </a>
   <a href="https://www.microsoft.com/microsoft-365/excel">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftexcel/microsoftexcel-original.svg" alt="Excel" width="40" height="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/vscode-icons/vscode-icons/icons/file_type_excel.svg" alt="Excel" width="40" height="40"/>
   </a>
   <a href="https://www.microsoft.com/sql-server">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" height="40"/>
