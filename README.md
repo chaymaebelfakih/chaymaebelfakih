@@ -42,7 +42,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
   </a>
   <a href="https://powerbi.microsoft.com/">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@develop/icons/powerbi.svg" alt="Power BI" width="40" height="40"/>
+   <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI" width="40" height="40"/>
+
   </a>
   <a href="https://www.microsoft.com/microsoft-365/excel">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/excel/excel-original.svg" alt="Excel" width="40" height="40"/>
