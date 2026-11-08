@@ -118,48 +118,7 @@
   <img src="https://skillicons.dev/icons?i=c,css,html,java,js,nodejs,mongodb,php,bootstrap,vscode" alt="Web Development and Programming Tools"/>
 </p>
 
----
 
-## 🚀 Featured Projects
-
-### ⚽ Football Analytics — End-to-End BI Project
-
-An end-to-end Business Intelligence project analyzing historical international football matches.
-
-**Tech Stack:** Python | PostgreSQL | dbt | Power BI
-
-**Key Features:**
-- Data exploration, cleaning, and validation using Python.
-- Data transformation and modeling with SQL and dbt.
-- Dimensional modeling using fact and dimension tables.
-- Interactive Power BI dashboard with football KPIs.
-- Analysis of team performance, victories, and competitions.
-
-### 📡 Telecom Business Intelligence
-
-A Business Intelligence project focused on telecom data analysis and performance monitoring.
-
-**Tech Stack:** SQL | Power BI | Data Modeling
-
-**Key Features:**
-- Data preparation and transformation.
-- KPI calculation and analysis.
-- Interactive Power BI dashboards.
-- Business performance visualization.
-
-### 🧠 Brain Tumor Segmentation — Deep Learning
-
-A medical image segmentation project based on a Multi-Encoder U-Net architecture with wavelet fusion.
-
-**Tech Stack:** Python | PyTorch | Deep Learning
-
-**Key Features:**
-- Medical image preprocessing.
-- Multi-modal MRI image analysis.
-- Deep learning architecture implementation.
-- Brain tumor segmentation experiments.
-
----
 
 ## 🏅 Certifications
 
