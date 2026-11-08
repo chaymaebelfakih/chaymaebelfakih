@@ -68,9 +68,10 @@
   <a href="https://github.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   </a>
-  <a href="https://www.getdbt.com/">
-    <img src="https://cdn.simpleicons.org/dbt/FF694B" alt="dbt" width="40" height="40"/>
-  </a>
+ <a href="https://www.getdbt.com/">
+  <img src="https://cdn.jsdelivr.net/gh/vscode-icons/vscode-icons/icons/file_type_dbt.svg"
+       alt="dbt" width="40" height="40"/>
+</a>
   <a href="https://azure.microsoft.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
   </a>
